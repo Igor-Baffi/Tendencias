@@ -46,9 +46,9 @@ Mesmo utilizando IA, permanecem humanas as responsabilidades de compreender o pr
 
 Três boas práticas para a colaboração humano-IA
 
-Fornecer contexto e instruções claras à IA: formular prompts objetivos, explicando o problema, os requisitos, as restrições e o resultado esperado.
-Revisar, testar e compreender o código gerado: nunca utilizar uma solução somente porque ela aparenta funcionar. É necessário validar sua lógica, executar testes e compreender o comportamento da implementação.
-Manter a responsabilidade e a decisão final com o programador: a IA deve atuar como ferramenta de apoio. Cabe ao desenvolvedor avaliar quando utilizar a sugestão, quando modificá-la e quando assumir o controle manualmente.
+ - Fornecer contexto e instruções claras à IA: formular prompts objetivos, explicando o problema, os requisitos, as restrições e o resultado esperado.
+ - Revisar, testar e compreender o código gerado: nunca utilizar uma solução somente porque ela aparenta funcionar. É necessário validar sua lógica, executar testes e compreender o comportamento da implementação.
+ - Manter a responsabilidade e a decisão final com o programador: a IA deve atuar como ferramenta de apoio. Cabe ao desenvolvedor avaliar quando utilizar a sugestão, quando modificá-la e quando assumir o controle manualmente.
 
 Síntese final
 
