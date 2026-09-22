@@ -33,14 +33,14 @@ No estudo de caso apresentado, a equipe solicita à IA a implementação complet
 
 Antes disso, a equipe deveria:
 
-revisar detalhadamente o código produzido;
-verificar se a implementação atende aos requisitos e às regras de negócio;
-executar testes adicionais, incluindo casos de erro e situações de borda;
-analisar as dependências utilizadas;
-verificar possíveis vulnerabilidades de segurança;
-avaliar a legibilidade e a manutenibilidade do código;
-identificar possíveis impactos em outras partes do sistema;
-realizar os ajustes necessários e registrar as decisões tomadas.
+ - Revisar detalhadamente o código produzido;
+ - Verificar se a implementação atende aos requisitos e às regras de negócio;
+ - Executar testes adicionais, incluindo casos de erro e situações de borda;
+ - Analisar as dependências utilizadas;
+ - Verificar possíveis vulnerabilidades de segurança;
+ - Avaliar a legibilidade e a manutenibilidade do código;
+ - Identificar possíveis impactos em outras partes do sistema;
+ - Realizar os ajustes necessários e registrar as decisões tomadas.
 
 Mesmo utilizando IA, permanecem humanas as responsabilidades de compreender o problema, avaliar os riscos, validar a solução, decidir se o código está adequado e autorizar sua incorporação ao projeto.
 
